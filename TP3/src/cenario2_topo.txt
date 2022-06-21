@@ -1,0 +1,8 @@
+overlay:Servidor-10.0.0.1
+overlay:Intermediario1-10.0.0.10,10.0.1.2,10.0.2.2
+overlay:Intermediario2-10.0.1.1,10.0.3.1,10.0.4.20
+overlay:Intermediario3-10.0.2.1,10.0.3.2,10.0.5.20
+overlay:Cliente1-10.0.4.1
+overlay:Cliente2-10.0.5.1
+
+required_nodes:Servidor,Intermediario1,Intermediario2,Intermediario3,Cliente1,Cliente2

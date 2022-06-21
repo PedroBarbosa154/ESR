@@ -1,0 +1,12 @@
+10.0.0.1    Intermediario1
+10.0.0.10   Servidor
+10.0.1.1    Intermediario1
+10.0.1.2    Intermediario2
+10.0.2.1    Intermediario1
+10.0.2.2    Intermediario3
+10.0.3.1    Intermediario3
+10.0.3.2    Intermediario2
+10.0.4.1    Intermediario2
+10.0.4.20   Cliente1
+10.0.5.1    Intermediario3
+10.0.5.20   Cliente2
